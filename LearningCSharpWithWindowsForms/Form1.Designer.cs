@@ -48,7 +48,7 @@
             this.nameTextBox.Name = "nameTextBox";
             this.nameTextBox.Size = new System.Drawing.Size(136, 20);
             this.nameTextBox.TabIndex = 1;
-            this.nameTextBox.Text = "World";
+            this.nameTextBox.Text = "Josh";
             // 
             // MainForm
             // 
@@ -58,7 +58,7 @@
             this.Controls.Add(this.nameTextBox);
             this.Controls.Add(this.helloButton);
             this.Name = "MainForm";
-            this.Text = "Hello... Someone";
+            this.Text = "Hello... World?";
             this.ResumeLayout(false);
             this.PerformLayout();
 
