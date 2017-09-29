@@ -29,6 +29,7 @@ namespace LearningCSharpWithWindowsForms
         /// <param name="e"></param>
         private void HelloButton_Click(object sender, EventArgs e)
         {
+            // Show the message box, plus the text in the associated text box.
             MessageBox.Show(string.Concat("Hello ",  nameTextBox.Text));
         }
 
